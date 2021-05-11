@@ -109,6 +109,10 @@ int main(){
         cout<<"Gracias por su preferencia"<<endl;
         cout<<"Bye Bye"<<endl;
         break;
+      case 141002:
+        cout<<"Creado por Panther"<<endl;
+        cout<<"Encontraste un easter egg :)"<<endl;
+        break;
       default:
         cout<<"No es una opcion."<<endl;
         break;
